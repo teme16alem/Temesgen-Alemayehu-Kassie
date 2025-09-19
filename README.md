@@ -8,12 +8,16 @@ The repository is organized into three main folders:
     Contains ML models built on the original dataset and neon-augmented dataset.
     Algorithms used:
       Linear Regression (LR)
+   
       Decision Tree Regressor
+   
       Random Forest Regressor
+   
       AdaBoost Regressor
-2. Augmented Dataset Models
+   
+3. Augmented Dataset Models
    Contains ML models trained on further augmented datasets to enhance performance and robustness.
-3. Selected Models for Laboratory Data Comparison
+4. Selected Models for Laboratory Data Comparison
     Contains the best-performing models selected for validation against laboratory data.
     Includes Linear Regression for baseline comparison.
     Focus: Evaluating how well the models can predict water absorption reduction in modified recycled aggregate.
