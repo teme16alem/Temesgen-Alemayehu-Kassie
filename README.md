@@ -2,7 +2,7 @@
 
 This repository contains the machine learning (ML) models and dataset used in my MSc thesis: “Enhancement in Properties of Mortar with Modified Recycled Aggregate by Enzyme Induced Carbonate Precipitation (EICP)” and The primary goal of these models is to predict the reduction of water absorption in recycled aggrgatemodified by using EICP, based on experimental and augmented data.
      
-Repository Structure
+Repository Structure 
 
 The repository is organized into three main folders:
 1. Original Neon-Augmented Dataset Models
