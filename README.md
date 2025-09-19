@@ -6,7 +6,9 @@ Repository Structure
 
 The repository is organized into three main folders:
 1. Original Neon-Augmented Dataset Models
+   
     Contains ML models built on the original dataset and neon-augmented dataset.
+   
     Algorithms used:
       Linear Regression (LR)
    
