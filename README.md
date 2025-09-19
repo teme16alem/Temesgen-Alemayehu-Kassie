@@ -1,4 +1,5 @@
 "Enhancement in Properties of Mortar with Modified Recycled Aggregate by Enzyme Induced Carbonate Precipitation"
+
 This repository contains the machine learning (ML) models and dataset used in my MSc thesis: “Enhancement in Properties of Mortar with Modified Recycled Aggregate by Enzyme Induced Carbonate Precipitation (EICP)” and The primary goal of these models is to predict the reduction of water absorption in recycled aggrgatemodified by using EICP, based on experimental and augmented data.
      
 Repository Structure
@@ -27,6 +28,9 @@ The repository is organized into three main folders:
 Objective
 
 To integrate ML approaches into material science research and demonstrate how data-driven methods can:
+
 Predict water absorption reduction in EICP-modified recycled aggregate.
+
 Compare predicted results with laboratory experiments.
+
 Provide insights for sustainable construction material design.
