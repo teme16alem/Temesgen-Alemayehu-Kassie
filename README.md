@@ -19,7 +19,9 @@ The repository is organized into three main folders:
    Contains ML models trained on further augmented datasets to enhance performance and robustness.
 4. Selected Models for Laboratory Data Comparison
     Contains the best-performing models selected for validation against laboratory data.
+   
     Includes Linear Regression for baseline comparison.
+   
     Focus: Evaluating how well the models can predict water absorption reduction in modified recycled aggregate.
 
 Objective
