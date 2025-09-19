@@ -10,13 +10,13 @@ The repository is organized into three main folders:
     Contains ML models built on the original dataset and neon-augmented dataset.
    
     Algorithms used:
-      Linear Regression (LR)
+         Linear Regression (LR)
    
-      Decision Tree Regressor
+         Decision Tree Regressor
    
-      Random Forest Regressor
+         Random Forest Regressor
    
-      AdaBoost Regressor
+         AdaBoost Regressor
    
 3. Augmented Dataset Models
    
