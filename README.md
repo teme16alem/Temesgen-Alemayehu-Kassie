@@ -5,7 +5,7 @@ This repository contains the machine learning (ML) models and dataset used in my
 Repository Structure 
 
 The repository is organized into three main folders:
-1. Original Neon-Augmented Dataset Models
+1. Original Neon-Augmented Dataset Models 
    
     Contains ML models built on the original dataset and neon-augmented dataset.
    
