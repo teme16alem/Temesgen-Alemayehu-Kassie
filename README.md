@@ -46,26 +46,24 @@ This guide provides step-by-step instructions on how to use the trained Random F
 Prerequisites:
 
 Python installed with the necessary libraries (pandas, scikit-learn, numpy).
-Access to the trained Random Forest model object (e.g., saved as a .pkl file).
-The original scaler object used for normalizing the training data (also saved as a .pkl file).
+Access to the trained Random Forest model object (https://github.com/teme16alem/Temesgen-Alemayehu-Kassie).
+
 Steps:
 
-Load the trained model and scaler:
+1. Load the trained model:
 
 Load the saved Random Forest model object into your Python environment.
-Load the saved scaler object that was fitted on the training data.
-Prepare your new data:
+
+2. Prepare your new data:
 
 Ensure your new data is in a format that can be loaded into a pandas DataFrame.
 The DataFrame must have the same column names as the features used during training (excluding the target variable 'Water Absorption reduction (%)'). The required columns are: 'Temprature(℃)', 'PH', 'CaCl₂ (mol/L)', 'Soaking Time (days)', 'Converted Enzyme Conc (g/L)', and 'Urea Conc (g/L)'.
-Scale the new data:
 
-Use the loaded scaler object to transform your new data. This is a crucial step to ensure the new data is on the same scale as the data the model was trained on. Do not fit the scaler on the new data; only use the transform method.
-Make predictions:
+3. Make predictions:
 
-Use the loaded trained Random Forest model to make predictions on the scaled new data.
-Interpret the predictions:
+Use the loaded trained Random Forest model to make predictions.
+4. Interpret the predictions:
 
 The output of the prediction will be an array or list of predicted 'Water Absorption reduction (%)' values corresponding to each row in your new data.
-Example (Conceptual Python Code - replace with your actual loading and data handling):
+
 
