@@ -1,6 +1,6 @@
 "Machine Learning-Based Comparative Study on Predicting Water Absorption Reduction of Enzyme-Induced Carbonate Precipitated Recycled Aggregates"
 
-This repository contains the machine learning (ML) models and dataset used in my MSc thesis: “Enhancement in Properties of Mortar with Modified Recycled Aggregate by Enzyme Induced Carbonate Precipitation (EICP)” and The primary goal of these models is to predict the reduction of water absorption in recycled aggrgatemodified by using EICP, based on experimental and augmented data.
+This repository contains the machine learning (ML) models and dataset used in my MSc thesis: “Machine Learning-Based Comparative Study on Predicting Water Absorption Reduction of Enzyme-Induced Carbonate Precipitated Recycled Aggregates” and The primary goal of these models is to predict the reduction of water absorption in recycled aggrgatemodified by using EICP, based on experimental and augmented data.
      
 Repository Structure 
 
